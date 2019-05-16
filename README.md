@@ -3,7 +3,7 @@
 ## Thank you for considering me for TCI's SE intern position!
 
 ### Extra Features
-- Allows users to sign ip and log in
+- Allows users create an account and log in
 - Allows users to add movies not already found in the database
 - Pretty sleek design if I do say so myself
 
