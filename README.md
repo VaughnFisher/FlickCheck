@@ -1,24 +1,31 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##Thank you for considering me for TCI's SE intern position!
 
-Things you may want to cover:
+###Extra Features
+- Allows users to sign ip and log in
+- Allows users to add movies not already found in the database
+- Pretty sleek design if I do say so myself
 
-* Ruby version
+###Installation:
+Install Dependencies
+```
+bundle install
+```
+Create file: /config/initializers/tmdb.rb
+```
+Tmdb::Api.key("YOUR_API_KEY_HERE")
+```
+Setup database
+```
+rails db:migrate
+rails db:seed
+```
+Run
+```
+rails s
+```
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
 
 * ...
