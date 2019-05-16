@@ -1,6 +1,7 @@
 # README
 
-## Thank you for considering me for TCI's SE intern position!
+## FlickCheck
+FlickCheck is a super rad movie review site
 
 ### Extra Features
 - Allows users create an account and log in
@@ -25,3 +26,4 @@ Run
 ```
 rails s
 ```
+## Thank you for considering me for TCI's SE intern position!
