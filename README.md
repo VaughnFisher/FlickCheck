@@ -4,7 +4,7 @@
 FlickCheck is a super rad movie review site
 
 ### Extra Features
-- Allows users create an account and log in
+- Allows users to create an account and log in
 - Allows users to add movies not already found in the database
 - Pretty sleek design if I do say so myself
 
