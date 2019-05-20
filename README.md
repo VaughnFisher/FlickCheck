@@ -1,7 +1,11 @@
 # README
 
 ## FlickCheck
-FlickCheck is a super rad movie review site
+FlickCheck is a super rad movie review site.
+This site includes the required features:
+- AJAX calls to themoviedb-api
+- sorting by title and release date
+- adding reviews to any movie with email, date, rating, and comment
 
 ### Extra Features
 - Allows users to create an account and log in
